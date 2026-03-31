@@ -173,14 +173,6 @@ chmod +x *.sh
 - Open source promotes collaboration  
 - Linux scripting improves automation skills  
 
----
-
-## 📊 Report Contents
-
-- **Part A:** Origin + License + Ethics  
-- **Part B:** Linux Footprint  
-- **Part C:** Ecosystem  
-- **Part D:** Comparison  
 
 ---
 
