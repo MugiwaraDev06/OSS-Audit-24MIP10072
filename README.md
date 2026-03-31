@@ -1,4 +1,7 @@
 # 🚀 Open Source Audit: Git
+![OS](https://img.shields.io/badge/OS-Linux-blue)
+![Shell](https://img.shields.io/badge/Shell-Bash-green)
+![Project](https://img.shields.io/badge/Project-OSS_Audit-orange)
 
 ## 👨‍🎓 Student Information
 **Name:** T. Siddarth Bharadwaj  
